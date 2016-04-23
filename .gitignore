@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+# generate file
+src/acalc
+src/lex.yy.c
+src/*.tab.*
